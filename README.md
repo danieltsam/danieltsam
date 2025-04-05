@@ -5,7 +5,7 @@
 I’m an IT student with a bit of experience in **Windows system administration** and **virtualization**. Lately, I’ve been diving into **Linux**, **DevOps**, **Cloud technologies**, and **Cybersecurity**. I’m passionate about learning how systems work, automating tasks, and improving efficiency and reliability.
 <br/>
 <br/>
-I sometimes create 'vibe-coded' projects just to see how far I can push them, mostly for fun, as I’m more interested in systems, cloud, DevOps, and cybersecurity than traditional software engineering. A lot of my repos will end up being these dodgy projects :)
+I sometimes create 'vibe-coded' projects just to see how far I can push them, mostly for fun, as I’m  not super interested in traditional software engineering. A lot of my repos will end up being these dodgy projects :)
 
 ## What I'm Interested in Learning 📚
  **Linux Administration** (Getting hands-on with the command line)<br/>
