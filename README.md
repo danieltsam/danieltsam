@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**danieltsam/danieltsam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Daniel 👋
 
-Here are some ideas to get you started:
+I’m an IT student with a bit of experience in **Windows system administration** and **virtualization**. Lately, I’ve been diving into **Linux**, **DevOps**, **Cloud technologies**, and **Cybersecurity**. I’m passionate about learning how systems work, automating tasks, and improving efficiency and reliability.
+<br/>
+<br/>
+A large number of my repos on Github will tend to be poor quality vibe coded projects :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Interested in Learning 📚
+ **Linux Administration** (Getting hands-on with the command line)<br/>
+ **Cloud Computing** (Exploring AWS, Azure, and other cloud tools)<br/>
+ **DevOps** (CI/CD, automation, and containerization)<br/>
+ **Cybersecurity** (Learning about system security and best practices)<br/>
+
+###### I love figuring out how things work under the hood and constantly improving processes. There's always something new to learn, and as nerdy as it sounds, I'm excited to continue learning about IT!
+---
+*Learn more about me here*:
+<br>
+[LinkedIn](https://www.linkedin.com/in/daniel-sam-852487236) | [Portfolio](https://danieltsam-github.io)
+</div>
