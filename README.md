@@ -8,6 +8,6 @@ I’m an IT student with a bit of experience in **Windows system administration*
 I sometimes create 'vibe-coded' projects just to see how far I can push them, mostly for fun, as I’m  not super interested in traditional software engineering. A lot of my repos will end up being these dodgy projects :)
 ---
 *Learn more about me here*:
-<br>
+<br/>
 [LinkedIn](https://www.linkedin.com/in/daniel-sam-852487236) | [Portfolio](https://danieltsam-github.io)
 </div>
