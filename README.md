@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Daniel 👋
+## Hi, I'm Daniel 👋
 
 I’m an IT student with a bit of experience in **Windows system administration** and **virtualization**. Lately, I’ve been diving into **Linux**, **DevOps** and **Cloud technologies**. I’m passionate about learning how systems work, automating tasks, and improving efficiency and reliability.
 <br/>
