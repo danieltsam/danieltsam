@@ -4,7 +4,6 @@
 
 I enjoy making solutions to solve small annoying problems. I sometimes create projects with the assistance of LLMs to solve silly problems in my life just to see how far I can push them. A lot of my repos will end up being these dodgy projects :)
 <br/>
-<br/>
 
 ---
 *Learn more about me here*:
