@@ -1,11 +1,11 @@
 <div align="center">
 
-## Hi, I'm Daniel 👋
+# Hi, I'm Daniel 👋
 
-### I’m an IT student with a bit of experience in **Windows system administration** and **virtualization**. Lately, I’ve been diving into **Linux**, **DevOps** and **Cloud technologies**. I’m passionate about learning how systems work, automating tasks, and improving efficiency and reliability.
+I enjoy making solutions to solve small annoying problems. I sometimes create projects with the assistance of LLMs to solve silly problems in my life just to see how far I can push them. A lot of my repos will end up being these dodgy projects :)
 <br/>
 <br/>
-I sometimes create 'vibe-coded' projects just to see how far I can push them, mostly for fun, as I’m  not super interested in traditional software engineering. A lot of my repos will end up being these dodgy projects :)
+
 ---
 *Learn more about me here*:
 <br/>
