@@ -1,6 +1,6 @@
 <div align="center">
 
-#👋
+👋
 ---
 *Learn more about me here*:
 <br/>
